@@ -9,7 +9,7 @@ export class AppController {
   @Get()
   @Render('index')
   root() {
-    return { message: 'Terminado' };
+    return { message: 'Terminado de Diana Laura Velasco' };
   }
 }
 
