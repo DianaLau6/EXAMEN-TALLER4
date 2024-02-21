@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: cadetblue;
+}
+
+.cuadro{
+    border-radius: 5px;
+}
+.texto {
+    font-size: 60px;
+    font-weight: bold;
+    color: #3366FF;
+    justify-content: center;
+}
